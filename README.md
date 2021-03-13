@@ -42,23 +42,25 @@ xcopy /E /Y "https://raw.githubusercontent.com/Lopastudio/complete-builder-for-m
 ```
 
 ## Usage
-    HELP MENU
-    COMPLETE BUILDER FOR MINETEST
-    CBFM
-    BY Patrik Nagy
-    print("Build")
-    print("Main Root Command To Build Block
-    print("Change Block
-    Enter Name Of Block (air, brick, wood, tnt, stone)
-    Bager
-    Dig a pit of any size
-    left/right
-    left = Rotate Builder To -90°
-    right = Rotate Builder To 90°
-    demo
-    Build Demo Project
-    panelak_builder = Start panelak_builder Program
-    ENJOY BUILDING VERY COOL STUFF
+<p>
+HELP MENU
+COMPLETE BUILDER FOR MINETEST
+CBFM
+BY Patrik Nagy
+</p>
+print("Build")
+print("Main Root Command To Build Block
+print("Change Block
+Enter Name Of Block (air, brick, wood, tnt, stone)
+Bager
+Dig a pit of any size
+left/right
+left = Rotate Builder To -90°
+right = Rotate Builder To 90°
+demo
+Build Demo Project
+panelak_builder = Start panelak_builder Program
+ENJOY BUILDING VERY COOL STUFF
 
 
 

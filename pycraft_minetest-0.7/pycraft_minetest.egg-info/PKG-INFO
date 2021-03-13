@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pycraft-minetest
+Version: 0.7
+Summary: Modified, simplified and improved libraries to code in Python via Minetest.
+Home-page: https://github.com/sprintingkiwi/pycraft_lib
+Author: alenorfo & gmenegoz
+Author-email: ale.norfo@gmail.com
+License: GNU General Public License v3.0
+Description: UNKNOWN
+Platform: UNKNOWN

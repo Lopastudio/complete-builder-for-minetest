@@ -42,12 +42,10 @@ xcopy /E /Y "https://raw.githubusercontent.com/Lopastudio/complete-builder-for-m
 ```
 
 ## Usage
-<p>
 HELP MENU
 COMPLETE BUILDER FOR MINETEST
 CBFM
 BY Patrik Nagy
-</p>
 print("Build")
 print("Main Root Command To Build Block
 print("Change Block

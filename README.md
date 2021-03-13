@@ -26,9 +26,39 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
+def help():
+    print("HELP MENU")
+    print("COMPLETE BUILDER FOR MINETEST")
+    print("CBFM")
+    print("BY Patrik Nagy")
+    time.sleep(3)
+    print("")
+    print("Build")
+    print("Main Root Command To Build Block")
+    time.sleep(3)
+    print("")
+    print("Change Block")
+    print("Enter Name Of Block (air, brick, wood, tnt, stone)")
+    time.sleep(5)
+    print("")
+    print("Bager")
+    print("Dig a pit of any size")
+    time.sleep(5)
+    print("")
+    print("left/right")
+    print("left = Rotate Builder To -90°")
+    print("right = Rotate Builder To 90°")
+    time.sleep(5)
+    print("")
+    print("demo = Build Demo Project")
+    time.sleep(5)
+    print("")
+    print("panelak_builder = Start panelak_builder Program")
+    time.sleep(5)
+    print("")
+    print("ENJOY BUILDING VERY COOL STUFF")
+    time.sleep(5)
 ### Installation
 ```
 

@@ -30,9 +30,15 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Installation
+```
 
 ```
-xcopy /E /Y "http://www.example.com/package.zip"
+```
+pip install pycraft-minetest
+```
+
+```
+xcopy /E /Y "https://raw.githubusercontent.com/Lopastudio/complete-builder-for-minetest/master/cbfm.py"
 ```
 
 ## Usage

@@ -45,6 +45,8 @@ for linux:
 git clone https://github.com/Lopastudio/complete-builder-for-minetest
 ```
 for windows:
+
+
 Download thonny from https://github.com/thonny/thonny/releases/download/v3.3.6/thonny-3.3.6.exe
 After installing thonny go to the Tools Tab and click to Manage Packages.
 Find package pycraft-minetest and click to install.

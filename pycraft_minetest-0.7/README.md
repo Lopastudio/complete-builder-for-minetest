@@ -11,7 +11,7 @@ Alessandro Norfo (ale.norfo@gmail.com) & Giuseppe Menegoz (gmenegoz@gmail.com).
 # Getting Started
 ## Install Python
 * Go to https://www.python.org
-* Choose Python 2.7
+* Choose Python 3.7
 
 ## Install Pycraft library
 * Open a terminal

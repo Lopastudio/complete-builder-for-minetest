@@ -37,17 +37,19 @@ Then you need to open this python folder in CommandLine (CMD) and type:
 ```
 python -m pip install pycraft-minetest
 ```
-After that download file
+After that download file and launch PyCraft.
+ENJOY MY PROGRAM
 
 for linux:
 ```
 git clone https://github.com/Lopastudio/complete-builder-for-minetest
 ```
 for windows:
-download thonny from https://github.com/thonny/thonny/releases/download/v3.3.6/thonny-3.3.6.exe
-```
-
-```
+Download thonny from https://github.com/thonny/thonny/releases/download/v3.3.6/thonny-3.3.6.exe
+After installing thonny go to the Tools Tab and click to Manage Packages.
+Find package pycraft-minetest and click to install.
+After that download and open file `cbfm.py` and run it in thonny.
+ENJOY MY PROGRAM
 
 ## License
 

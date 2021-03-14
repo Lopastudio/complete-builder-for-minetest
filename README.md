@@ -34,6 +34,7 @@ git clone https://github.com/Lopastudio/complete-builder-for-minetest
 ```
 For Windows:
 Method 1.
+
 Download thonny from https://github.com/thonny/thonny/releases/download/v3.3.6/thonny-3.3.6.exe
 After installing thonny go to the Tools Tab and click to Manage Packages.
 Find package pycraft-minetest and click to install.
@@ -41,6 +42,7 @@ After that download and open file `cbfm.py` and run it in thonny.
 ENJOY MY PROGRAM
 
 Method 2.
+
 Find folder where is your Python saved. The python is saved in appdata.
 For example:
 ```

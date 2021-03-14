@@ -28,6 +28,19 @@
 Najlepší nástroj pre stavanie v MineTeste.
 
 ### Installation
+for linux:
+```
+git clone https://github.com/Lopastudio/complete-builder-for-minetest
+```
+For Windows:
+Method 1.
+Download thonny from https://github.com/thonny/thonny/releases/download/v3.3.6/thonny-3.3.6.exe
+After installing thonny go to the Tools Tab and click to Manage Packages.
+Find package pycraft-minetest and click to install.
+After that download and open file `cbfm.py` and run it in thonny.
+ENJOY MY PROGRAM
+
+Method 2.
 Find folder where is your Python saved. The python is saved in appdata.
 For example:
 ```
@@ -38,20 +51,8 @@ Then you need to open this python folder in CommandLine (CMD) and type:
 ```
 python -m pip install pycraft-minetest
 ```
-After that download file and launch PyCraft.
-ENJOY MY PROGRAM
-
-for linux:
-```
-git clone https://github.com/Lopastudio/complete-builder-for-minetest
-```
-for windows:
-
-
-Download thonny from https://github.com/thonny/thonny/releases/download/v3.3.6/thonny-3.3.6.exe
-After installing thonny go to the Tools Tab and click to Manage Packages.
-Find package pycraft-minetest and click to install.
-After that download and open file `cbfm.py` and run it in thonny.
+After that download file `cbfm.py` and launch PyCraft.
+You need to enable Pycraft_mod in your world and after loading world run `cbfm.py`.
 ENJOY MY PROGRAM
 
 ## License

@@ -25,48 +25,31 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-print("HELP MENU")
-print("COMPLETE BUILDER FOR MINETEST")
-print("CBFM")
-print("BY Patrik Nagy")
-time.sleep(3)
-print("")
-print("Build")
-print("Main Root Command To Build Block")
-time.sleep(3)
-print("")
-print("Change Block")
-print("Enter Name Of Block (air, brick, wood, tnt, stone)")
-time.sleep(5)
-print("")
-print("Bager")
-print("Dig a pit of any size")
-time.sleep(5)
-print("")
-print("left/right")
-print("left = Rotate Builder To -90°")
-print("right = Rotate Builder To 90°")
-time.sleep(5)
-print("")
-print("demo = Build Demo Project")
-time.sleep(5)
-print("")
-print("panelak_builder = Start panelak_builder Program")
-time.sleep(5)
-print("")
-print("ENJOY BUILDING VERY COOL STUFF")
-time.sleep(5)
+
+Najlepší nástroj pre stavanie v MineTeste.
+
 ### Installation
+Find folder where is your Python saved. The python is saved in appdata
+```
+cd %localappdata%
+```
+Find in LocalAppData your python folder.
+Then you need to open this python folder in CommandLine (CMD) and type:
+```
+python -m pip install pycraft-minetest
+```
+After that download file
+
+for linux:
+```
+git clone https://github.com/Lopastudio/complete-builder-for-minetest
+```
+for windows:
+download thiny
 ```
 
 ```
-```
-pip install pycraft-minetest
-```
 
-```
-xcopy /E /Y "https://raw.githubusercontent.com/Lopastudio/complete-builder-for-minetest/master/cbfm.py"
-```
 
 ## Usage
 HELP MENU
@@ -98,6 +81,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Lopastudio - [Lopastudio YT](https://youtube.com/channel/UC3TpK_bRiYwfU1q-PSot9CQ) - info@lopastudio.sk
 
 Project Link: [https://github.com/Lopastudio/complete-builder-for-minetest](https://github.com/Lopastudio/complete-builder-for-minetest)

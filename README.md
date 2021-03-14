@@ -28,9 +28,10 @@
 Najlepší nástroj pre stavanie v MineTeste.
 
 ### Installation
-Find folder where is your Python saved. The python is saved in appdata
+Find folder where is your Python saved. The python is saved in appdata.
+For example:
 ```
-cd %localappdata%
+cd %localappdata%\Programs\Python\
 ```
 Find in LocalAppData your python folder.
 Then you need to open this python folder in CommandLine (CMD) and type:

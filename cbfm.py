@@ -101,6 +101,9 @@ def panelak_builder():
     panelak(agent, sirka, dlzka, vyska_panelaku, vyska_patra)
 
 def bager():
+    chat("Don't move!!!")
+    chat("Don't move!!!")
+    chat("Don't move!!!")
     velkostx = int(input("enter X:"))
     velkosty = int(input("enter Y:"))
     velkostz = int(input("enter Z:"))

@@ -30,7 +30,9 @@ Najlepší nástroj pre stavanie v MineTeste.
 ### Installation
 First you need to install mod for PyCraft using this link: https://github.com/sprintingkiwi/pycraft_mod
 
-for linux:
+Installation for:
+
+For linux:
 ```
 git clone https://github.com/Lopastudio/complete-builder-for-minetest
 ```

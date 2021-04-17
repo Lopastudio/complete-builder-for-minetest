@@ -32,11 +32,11 @@ First you need to install mod for PyCraft using this link: https://github.com/sp
 
 Installation for:
 
-For linux:
+Linux:
 ```
 git clone https://github.com/Lopastudio/complete-builder-for-minetest
 ```
-For Windows:
+Windows:
 Method 1.
 
 Download thonny from https://github.com/thonny/thonny/releases/download/v3.3.6/thonny-3.3.6.exe

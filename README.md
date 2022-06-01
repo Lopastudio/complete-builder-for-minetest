@@ -25,7 +25,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Najlepší nástroj pre stavanie v MineTeste.
+Best building tool for MineTest.
 
 ### Installation
 First you need to install mod for PyCraft using this link: https://github.com/sprintingkiwi/pycraft_mod
